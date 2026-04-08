@@ -113,6 +113,8 @@ python inference.py --all
 
 ---
 
+*******  DEMO VIDEO ******    https://youtu.be/MWoF8FKdij0
+
 ##  Quality Assurance
 We maintain >90% coverage for deterministic result validation:
 ```bash
