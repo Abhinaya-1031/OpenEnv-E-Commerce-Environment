@@ -1,0 +1,214 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Wireless Earbuds",
+      "price": 50,
+      "profit_margin": 8,
+      "category": "electronics"
+    },
+    {
+      "id": "p2",
+      "name": "Phone Case",
+      "price": 30,
+      "profit_margin": 3,
+      "category": "accessories"
+    },
+    {
+      "id": "p3",
+      "name": "USB-C Cable",
+      "price": 40,
+      "profit_margin": 7,
+      "category": "electronics"
+    },
+    {
+      "id": "p4",
+      "name": "Screen Protector",
+      "price": 60,
+      "profit_margin": 6,
+      "category": "accessories"
+    },
+    {
+      "id": "p5",
+      "name": "Charging Pad",
+      "price": 20,
+      "profit_margin": 2,
+      "category": "electronics"
+    },
+    {
+      "id": "p6",
+      "name": "Laptop Stand",
+      "price": 70,
+      "profit_margin": 5,
+      "category": "furniture"
+    },
+    {
+      "id": "p7",
+      "name": "Mouse Pad",
+      "price": 10,
+      "profit_margin": 1,
+      "category": "accessories"
+    },
+    {
+      "id": "p8",
+      "name": "Bluetooth Speaker",
+      "price": 80,
+      "profit_margin": 10,
+      "category": "electronics"
+    },
+    {
+      "id": "p9",
+      "name": "Gaming Mouse",
+      "price": 45,
+      "profit_margin": 6,
+      "category": "electronics"
+    },
+    {
+      "id": "p10",
+      "name": "Keyboard",
+      "price": 55,
+      "profit_margin": 7,
+      "category": "electronics"
+    },
+    {
+      "id": "p11",
+      "name": "Webcam",
+      "price": 65,
+      "profit_margin": 8,
+      "category": "electronics"
+    },
+    {
+      "id": "p12",
+      "name": "External Hard Drive",
+      "price": 120,
+      "profit_margin": 15,
+      "category": "electronics"
+    },
+    {
+      "id": "p13",
+      "name": "Smart Watch",
+      "price": 150,
+      "profit_margin": 20,
+      "category": "electronics"
+    },
+    {
+      "id": "p14",
+      "name": "Fitness Band",
+      "price": 70,
+      "profit_margin": 9,
+      "category": "electronics"
+    },
+    {
+      "id": "p15",
+      "name": "Power Bank",
+      "price": 40,
+      "profit_margin": 5,
+      "category": "electronics"
+    },
+    {
+      "id": "p16",
+      "name": "HDMI Cable",
+      "price": 25,
+      "profit_margin": 3,
+      "category": "electronics"
+    },
+    {
+      "id": "p17",
+      "name": "Monitor Stand",
+      "price": 90,
+      "profit_margin": 12,
+      "category": "furniture"
+    },
+    {
+      "id": "p18",
+      "name": "Desk Lamp",
+      "price": 35,
+      "profit_margin": 4,
+      "category": "furniture"
+    },
+    {
+      "id": "p19",
+      "name": "Office Chair Cushion",
+      "price": 45,
+      "profit_margin": 6,
+      "category": "furniture"
+    },
+    {
+      "id": "p20",
+      "name": "Notebook",
+      "price": 15,
+      "profit_margin": 2,
+      "category": "accessories"
+    },
+    {
+      "id": "p21",
+      "name": "Pen Set",
+      "price": 20,
+      "profit_margin": 3,
+      "category": "accessories"
+    },
+    {
+      "id": "p22",
+      "name": "Backpack",
+      "price": 75,
+      "profit_margin": 10,
+      "category": "accessories"
+    },
+    {
+      "id": "p23",
+      "name": "Water Bottle",
+      "price": 18,
+      "profit_margin": 2,
+      "category": "accessories"
+    },
+    {
+      "id": "p24",
+      "name": "Lunch Box",
+      "price": 22,
+      "profit_margin": 3,
+      "category": "accessories"
+    },
+    {
+      "id": "p25",
+      "name": "Tablet Stand",
+      "price": 30,
+      "profit_margin": 4,
+      "category": "electronics"
+    },
+    {
+      "id": "p26",
+      "name": "Stylus Pen",
+      "price": 28,
+      "profit_margin": 3,
+      "category": "electronics"
+    },
+    {
+      "id": "p27",
+      "name": "Wireless Charger",
+      "price": 50,
+      "profit_margin": 7,
+      "category": "electronics"
+    },
+    {
+      "id": "p28",
+      "name": "LED Strip Lights",
+      "price": 35,
+      "profit_margin": 5,
+      "category": "electronics"
+    },
+    {
+      "id": "p29",
+      "name": "Extension Cord",
+      "price": 20,
+      "profit_margin": 2,
+      "category": "electronics"
+    },
+    {
+      "id": "p30",
+      "name": "Surge Protector",
+      "price": 40,
+      "profit_margin": 5,
+      "category": "electronics"
+    }
+  ]
+}
